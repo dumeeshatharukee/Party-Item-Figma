@@ -39,11 +39,7 @@ I, **Dumeesha Tharukee**, was responsible for:
 - **Icons:** Material Icons
 - **Prototyping:** Interactive navigation links between screens
 
-## 📸 Preview
 
-> Include a few screenshots or a Figma link here:
-
-[Figma Design Preview (Public)](https://www.figma.com/file/your-design-link)
 
 ## 🚀 How to View
 
